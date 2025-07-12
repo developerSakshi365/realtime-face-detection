@@ -1,0 +1,29 @@
+# Python cache and bytecode files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+env/
+
+# IDE/editor config files
+.vscode/
+.idea/
+*.swp
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Log files
+*.log
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Others (optional)
+*.bak
+*.tmp
